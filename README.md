@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Luis Enrique</h1>
 <h3 align="center">Desarrollador Backend apasionado de México</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Laravel** y ** Python **
+- 🌱 Actualmente estoy aprendiendo **Laravel** y **Python**
 - 📝 Escribo artículos regularmente sobre **PHP**  
 - 💬 Pregúntame sobre **PHP y JavaScript**  
 - 📫 Contáctame en **ing.enrique.sistemas@gmail.com**  
